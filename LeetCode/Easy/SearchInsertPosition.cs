@@ -3,7 +3,7 @@
 
 namespace LeetCode.Easy
 {
-    internal class SearchInsertPosition
+    public class SearchInsertPosition
     {
         public int SearchInsert(int[] nums, int target)
         {
