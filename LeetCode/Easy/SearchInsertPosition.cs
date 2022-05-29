@@ -1,4 +1,7 @@
-﻿namespace LeetCode.Easy
+﻿//Runtime: 106 ms, faster than 58.05% of C# online submissions for Search Insert Position.
+//Memory Usage: 37.7 MB, less than 72.43% of C# online submissions for Search Insert Position.
+
+namespace LeetCode.Easy
 {
     internal class SearchInsertPosition
     {
