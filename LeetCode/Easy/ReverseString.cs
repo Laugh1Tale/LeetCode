@@ -1,7 +1,6 @@
 ﻿//Runtime: 269 ms, faster than 71.23% of C# online submissions for Reverse String.
 //Memory Usage: 46.8 MB, less than 98.00% of C# online submissions for Reverse String.
 
-
 namespace LeetCode.Easy
 {
     public class ReverseString
